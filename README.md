@@ -1,26 +1,25 @@
-# House Price Prediction ML Project
+# House Price Prediction using Linear Regression
 
-## Overview
-This project predicts house prices using Linear Regression.
-
-## Steps
-- Data loading
-- Data analysis (EDA)
-- Model training
-- Evaluation
-- Prediction
+## Project Overview
+This project predicts house prices using the California Housing Dataset and Linear Regression.
 
 ## Technologies Used
 - Python
 - Pandas
 - NumPy
-- Scikit-learn
 - Matplotlib
+- Scikit-learn
+- Jupyter Notebook
 
-## How to Run
-1. Install requirements
-2. Run notebook
-3. Run predict_house_price.py
+## Dataset
+California Housing Dataset containing 20,640 records and 8 features.
 
-## Author
-Akash Kumar
+## Model Used
+Linear Regression
+
+## Evaluation Metrics
+- MAE: 0.5332
+- RMSE: 0.7456
+- R² Score: 0.5758
+
+## Project Structure
